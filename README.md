@@ -1,2 +1,2 @@
 # POKEDEX
-Projeto desenvolvido para o desafio do Bootcamp Potência Tech Angular Developer-Powered by iFood
+Projeto desenvolvido para o primeiro desafio do Bootcamp Potência Tech Angular Developer-Powered by iFood
