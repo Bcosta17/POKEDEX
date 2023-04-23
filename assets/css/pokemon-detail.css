@@ -119,3 +119,11 @@ nav a.active {
   font-size: 1rem;
   color: #FF00FF;
 }
+
+@media screen and (min-width: 332px) {
+  .content {
+    max-width: 332px;
+    margin: 0 auto;
+    
+  }
+}
